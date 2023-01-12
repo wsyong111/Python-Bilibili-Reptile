@@ -1,0 +1,6 @@
+{
+	"ArticleAPI": "https://api.bilibili.com/x/space/article?mid={USER_ID}&pn={PAGE}&ps={MAX_PAGE}&sort=publish_time&jsonp=jsonp",
+	"GetArticleContentAPI": "https://api.bilibili.com/x/article/view?id={ID}",
+	"GetLiveContentAPI": "https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/space_history?visitor_uid={USER_ID}&host_uid={USER_ID}&offset_dynamic_id={NEXT_OFFSET}&need_top=1&platform=web",
+	"GetUpStatus": "https://api.bilibili.com/x/web-interface/card?mid={USER_ID}"
+}

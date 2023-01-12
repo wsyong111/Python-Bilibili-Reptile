@@ -1,0 +1,216 @@
+{
+	"Change_Language": {
+		"en": "Change language",
+		"zh": "切换语言"
+	},
+	"Emulates_Old_Console": {
+		"en": "Emulates old console",
+		"zh": "模仿旧式控制台"
+	},
+	"Language": {
+		"en": "Language",
+		"zh": "语言"
+	},
+	"File": {
+		"en": "File",
+		"zh": "文件"
+	},
+	"Folder": {
+		"en": "Folder",
+		"zh": "文件夹"
+	},
+	"Opening_Explorer": {
+		"en": "Opening explorer...",
+		"zh": "正在打开文件管理器..."
+	},
+	"Help": {
+		"en": "Help",
+		"zh": "帮助"
+	},
+	"Message": {
+		"en": "Message",
+		"zh": "信息"
+	},
+	"About": {
+		"en": "About",
+		"zh": "关于"
+	},
+	"Error": {
+		"en": "Error",
+		"zh": "错误"
+	},
+	"List_Controller": {
+		"en": "List controller",
+		"zh": "列表控制器"
+	},
+	"Edit_Value": {
+		"en": "Edit value",
+		"zh": "修改值"
+	},
+	"Add_Value": {
+		"en": "Add value",
+		"zh": "添加值"
+	},
+	"Select_Color": {
+		"en": "Selected color",
+		"zh": "选择颜色"
+	},
+	"Text_Display_Color": {
+		"en": "Text display color",
+		"zh": "文字显示颜色"
+	},
+	"Text_Color": {
+		"en": "Text color",
+		"zh": "文字颜色"
+	},
+	"Image_Output_Path": {
+		"en": "Image output path",
+		"zh": "文件输出路径"
+	},
+	"Background_Color": {
+		"en": "Background color",
+		"zh": "背景颜色"
+	},
+	"User_List": {
+		"en": "User list",
+		"zh": "用户列表"
+	},
+	"Gui_Settings": {
+		"en": "Gui Settings",
+		"zh": "界面设置"
+	},
+	"Reptile_Settings": {
+		"en": "Reptile Settings",
+		"zh": "爬虫设置"
+	},
+	"Main_Tab": {
+		"en": "Main tab",
+		"zh": "主页面"
+	},
+	"Show_Report": {
+		"en": "Show report",
+		"zh": "显示报告"
+	},
+	"Remove_Value": {
+		"en": "Remove value",
+		"zh": "删除值"
+	},
+	"Run_Reptile": {
+		"en": "Run Reptile",
+		"zh": "运行爬虫"
+	},
+	"Exit": {
+		"en": "Exit",
+		"zh": "退出"
+	},
+	"Show_Support_Mode": {
+		"en": "Show support mode",
+		"zh": "显示兼容模式"
+	},
+	"Path_Editor": {
+		"en": "Path editor",
+		"zh": "编辑编辑器"
+	},
+	"Edit_Path": {
+		"en": "Edit path",
+		"zh": "编辑路径"
+	},
+	"Edit_Color": {
+		"en": "Edit color",
+		"zh": "编辑颜色"
+	},
+	"Show_File_Location": {
+		"en": "Show {FILE_TYPE} location",
+		"zh": "显示{FILE_TYPE}位置"
+	},
+	"0x0000": {
+		"en": "After changing the language, it will cause garbled characters, and the setting interface needs to be restarted",
+		"zh": "更改语言后会导致乱码\n需要重启设置界面"
+	},
+	"0x0001": {
+		"en": "Confirming availability...",
+		"zh": "正在确认可用性..."
+	},
+	"0x0002": {
+		"en": "Found {SIZE} unavailable IDs",
+		"zh": "发现 {SIZE} 个不可用ID"
+	},
+	"0x0003": {
+		"en": "Key control:\n    Q        Exit the settings GUI\n    A        Switch tab to the left\n    D        Switch tab to the right\n    W        Move up\n    S        Move down\n    ENTER    Confirm",
+		"zh": "按键控制:\n    Q        退出设置界面\n    A        往左切换选项卡\n    D        往右切换选项卡\n    W        往上\n    S        往下\n    ENTER    确定"
+	},
+	"0x0004": {
+		"en": "Developer        : wsyong11\nVersion          : V2.0\nDevelopment date : 2022/12/25\nUpdate date      : 2022/12/28\n\nThis tool is used to download images of UP host dynamics and columns.\nThis app uses three Bilibili interfaces.\n\nDo not use for commercial purposes.",
+		"zh": "开 发 者 : wsyong11\n版    本 : V2.0\n开发日期 : 2022/12/25\n更新日期 : 2022/12/28\n\n此工具用于下载UP主动态和专栏的图片\n此应用使用了3个Bilibili接口\n\n请勿用于商业用途"
+	},
+	"0x0005": {
+		"en": "The language displayed in the console",
+		"zh": "控制台所显示的语言"
+	},
+	"0x0006": {
+		"en": "Make the refresh rate of the console the same as the previous console",
+		"zh": "让控制台的刷新速度跟以前的控制台一样"
+	},
+	"0x0007": {
+		"en": "Image download path",
+		"zh": "图片下载路径"
+	},
+	"0x0008": {
+		"en": "List of user IDs to be scraped",
+		"zh": "将被爬取的用户ID列表"
+	},
+	"0x0009": {
+		"en": "Show report after run completes",
+		"zh": "运行完成后显示报告"
+	},
+	"0x000A": {
+		"en": "Open output Folder",
+		"zh": "打开输出文件夹"
+	},
+	"0x000B": {
+		"en": "If there are display issues or garbled text, please switch this option.",
+		"zh": "如果显示出现异常或者乱码请切换这个选项"
+	},
+
+	"1x0000": {
+		"BLACK": {
+			"en": "Black",
+			"zh": "黑色"
+		},
+
+		"BLUE": {
+			"en": "Blue",
+			"zh": "蓝色"
+		},
+
+		"CYAN": {
+			"en": "Cyan",
+			"zh": "青色"
+		},
+
+		"GREEN": {
+			"en": "Green",
+			"zh": "绿色"
+		},
+
+		"MAGENTA": {
+			"en": "Magenta",
+			"zh": "洋红色"
+		},
+
+		"RED": {
+			"en": "Red",
+			"zh": "红色"
+		},
+
+		"WHITE": {
+			"en": "White",
+			"zh": "白色"
+		},
+
+		"YELLOW": {
+			"en": "Yellow",
+			"zh": "黄色"
+		}
+	}
+}
