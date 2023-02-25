@@ -1,0 +1,13 @@
+{
+	"GuiSettings": {
+		"BackgroundColor": [77, 77, 77],
+		"FontColor": [255, 255, 255],
+		"SidebarColor": [55, 55, 55],
+		"ButtonColor": [66, 66, 66],
+		"Language": "zh-cn"
+	},
+
+	"ReptileSettings": {
+		"DownloadFolder": "D:\\Projects\\PythonReptile\\V3\\src\\Download\\"
+	}
+}
